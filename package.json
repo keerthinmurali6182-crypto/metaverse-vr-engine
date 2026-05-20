@@ -1,0 +1,16 @@
+{
+  "name": "metaverse-vr-engine",
+  "version": "1.0.0",
+  "description": "Enterprise WebXR Immersive 3D Environment with Hand Gesture & Gait Simulation",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
